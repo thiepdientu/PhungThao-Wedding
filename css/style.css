@@ -363,7 +363,7 @@ body {
     align-items: center;
 }
 .banner-text {
-    font-family: var(--script-font);
+    
     color: var(--primary-color);
     font-size: 54px;
     max-width: 100%;
@@ -375,7 +375,7 @@ body {
 }
 .banner-date {
     font-size: 24px;
-    font-family: var(--script-font);
+    
     color: var(--text-white);
 }
 /* ABOUT */
@@ -437,7 +437,7 @@ body {
     letter-spacing: 8px;
 }
 .about-data .bride_name, .about-data .groom_name {
-    font-family: var(--script-font);
+   
     font-size: 40px;
 }
 .about-data .social-link {
